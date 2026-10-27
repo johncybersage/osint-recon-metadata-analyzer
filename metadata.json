@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Recon & Metadata Analyzer",
+  "description": "Clean, dark-mode cybersecurity reconnaissance tool for extracting, categorizing, and deduplicating IPs, emails, sensitive files, and domains from raw text dumps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
